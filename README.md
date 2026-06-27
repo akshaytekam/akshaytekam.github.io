@@ -1,7 +1,7 @@
 # akshaytekam.github.io
 ### My Portfolio
 
-## For a 4-year experienced Data Engineering Projects I have wored on:
+## For 4-year experienced Data Engineering Projects I have worked on:
 
 1. ### Project 1: Enterprise Batch Data Pipeline
 
